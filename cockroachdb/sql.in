@@ -1,0 +1,3 @@
+select count(*) from setask.orders;
+truncate table setask.orders;
+truncate table setask.lineitem;
